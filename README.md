@@ -22,6 +22,8 @@ Click on a discovered tile - move there
 
 Click on an undiscovered tile - discover it
 
+Click on a chest while already on that space - Open the chest
+
 Cable button or press C - use a cable on the next tile you click on
 
 Lumber button or press B - build a bridge on the next tile you click on (this will make sense eventually)
